@@ -19,10 +19,7 @@ npm start
 
 ## Scripts
 
-- `npm start` - Start the server
-- `npm run dev` - Start with file watching (Node 18+)
-- `npm test` - Run tests
-- `npm run lint` - Run linter
+
 
 ## Project Structure
 
